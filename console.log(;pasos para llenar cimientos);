@@ -1,0 +1,5 @@
+console.log("paso 1 abrir cimientos con pala de punta a 40 cm de profundidad");
+console.log("paso 2 preparar pilotines para armar colunnas");
+console.log("paso 3 armar estructura de fierro de 20 cm por 40 cm de alto");
+console.log("paso 4 anivelar pisos sacando nivel de cordon peatonal");
+console.log("paso 5 preparar hormigon y llenar cimientos");
